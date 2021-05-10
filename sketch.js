@@ -15,7 +15,7 @@ function setup() {
   world = engine.world;
 
   ground1 = new Ground(400,200,200,20);
-  ground2 = new Ground(700,300,200,20);
+  ground2 = new Ground(700,330,200,20);
 
   block1 = new Block(320,190,20,20);
   block2 = new Block(340,190,20,20);
